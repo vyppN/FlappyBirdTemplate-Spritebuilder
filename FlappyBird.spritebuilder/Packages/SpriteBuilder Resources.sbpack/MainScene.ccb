@@ -157,7 +157,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string>CCNode</string>
+				<string></string>
 				<key>displayName</key>
 				<string>parallaxContainer</string>
 				<key>memberVarAssignmentName</key>
