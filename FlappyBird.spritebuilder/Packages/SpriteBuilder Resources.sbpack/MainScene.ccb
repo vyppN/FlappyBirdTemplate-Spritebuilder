@@ -49,7 +49,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>CCNode</string>
 				<key>displayName</key>
 				<string>parallaxContainer</string>
 				<key>memberVarAssignmentName</key>
